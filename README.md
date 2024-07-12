@@ -8,30 +8,30 @@ This repository contains synthetic datasets of DNA sequences with motifs planted
 The datasets are organized as follows:
 
 synthetic_data/
-    ├── alpha_val_0.1_no_of_seq_500_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.1_no_of_seq_700_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.1_no_of_seq_900_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.1_no_of_seq_1000_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.1_no_of_seq_500_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.1_no_of_seq_700_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.1_no_of_seq_900_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.1_no_of_seq_1000_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.1_no_of_seq_500_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.1_no_of_seq_700_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.1_no_of_seq_900_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.1_no_of_seq_1000_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.01_no_of_seq_500_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.01_no_of_seq_700_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.01_no_of_seq_900_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.01_no_of_seq_1000_len_of_seq_100_len_of_motif_8.txt
-    ├── alpha_val_0.01_no_of_seq_500_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.01_no_of_seq_700_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.01_no_of_seq_900_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.01_no_of_seq_1000_len_of_seq_100_len_of_motif_9.txt
-    ├── alpha_val_0.01_no_of_seq_500_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.01_no_of_seq_700_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.01_no_of_seq_900_len_of_seq_100_len_of_motif_10.txt
-    ├── alpha_val_0.01_no_of_seq_1000_len_of_seq_100_len_of_motif_10.txt
+    ├── alpha_val_0.1_no_of_seq_500_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.1_no_of_seq_700_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.1_no_of_seq_900_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.1_no_of_seq_1000_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.1_no_of_seq_500_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.1_no_of_seq_700_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.1_no_of_seq_900_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.1_no_of_seq_1000_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.1_no_of_seq_500_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.1_no_of_seq_700_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.1_no_of_seq_900_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.1_no_of_seq_1000_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.01_no_of_seq_500_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.01_no_of_seq_700_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.01_no_of_seq_900_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.01_no_of_seq_1000_len_of_seq_100_len_of_motif_8
+    ├── alpha_val_0.01_no_of_seq_500_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.01_no_of_seq_700_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.01_no_of_seq_900_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.01_no_of_seq_1000_len_of_seq_100_len_of_motif_9
+    ├── alpha_val_0.01_no_of_seq_500_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.01_no_of_seq_700_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.01_no_of_seq_900_len_of_seq_100_len_of_motif_10
+    ├── alpha_val_0.01_no_of_seq_1000_len_of_seq_100_len_of_motif_10
     └── original_motifs/
         ├── or_0.1_500_8.png
         ├── or_0.1_700_8.png
